@@ -21,7 +21,7 @@ brew install mactex
 
 ## Usage
 
-1. Move all the SVG files to this directory. Filenames should end with `.svg`
+1. Copy all the SVG files to this directory. Filenames should end with `.svg`
    and be in alphabetical order to ensure the correct page layout.
 
 2. Run `./svg-pages-to-pdf.sh`
